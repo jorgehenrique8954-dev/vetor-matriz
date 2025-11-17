@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\Testando elementos da Matriz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75D9EEDF-3E4A-43B1-A6E9-4A29970A053B}|Testando elementos da Matriz\\Testando elementos da Matriz.csproj|c:\\users\\user\\source\\repos\\testando elementos da matriz\\testando elementos da matriz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75D9EEDF-3E4A-43B1-A6E9-4A29970A053B}|Testando elementos da Matriz\\Testando elementos da Matriz.csproj|solutionrelative:testando elementos da matriz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Testando elementos da Matriz\\Testando elementos da Matriz\\Program.cs",
+              "RelativeDocumentMoniker": "Testando elementos da Matriz\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Testando elementos da Matriz\\Testando elementos da Matriz\\Program.cs",
+              "RelativeToolTip": "Testando elementos da Matriz\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T21:16:03.868Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
